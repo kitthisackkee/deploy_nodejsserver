@@ -16,3 +16,4 @@ app.use('/api/v1/test', (req,res)=>{
 app.listen(PORT,()=>{
     console.log(`Server is runing on http://localhost:${PORT}`);
 });
+
